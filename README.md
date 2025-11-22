@@ -111,4 +111,5 @@ Showcase Power BI skills for data storytelling
 
 Omolola Olorunnishola
 Biochemistry × Data Science × Artificial Intelligence x Data Analysis
+
 Passionate about using data insights to solve real-world health problems.
